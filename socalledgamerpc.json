@@ -18,6 +18,27 @@
 			"platform_choices":[
 				"Nintendo Switch"
 			]
+		},
+		{
+			"name":"Fortnite",
+			"id":"fortnite",
+			"image":"teamsquid",
+			"options":[
+				"Battle Royale - Solos",
+				"Battle Royale - Duos",
+				"Battle Royale - Squads",
+				"Battle Royale - 50v50",
+				"Battle Royale - Playground",
+				"Save the World"
+			],
+			"platform_choices":[
+				"Nintendo Switch",
+				"PC",
+				"Mac",
+				"Xbox One",
+				"Playstation 4",
+				"Mobile"
+			]
 		}
 	],
 	"platforms":[
