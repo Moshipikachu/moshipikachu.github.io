@@ -1,0 +1,29 @@
+{
+	"games":[
+		{
+			"name":"Splatoon 2",
+			"image":"teamsquid",
+			"options":[
+				"Turf War",
+				"Ranked Battle - Splat Zones",
+				"Ranked Battle - Tower Control",
+				"Ranked Battle - Rainmaker",
+				"Ranked Battle - Clam Blitz",
+				"League Battle - Pair",
+				"League Battle - Team",
+				"Private Battle",
+				"Salmon Run",
+			],
+			"platform":[
+				{
+				}
+			]
+		}
+	],
+	"platforms":[
+		{
+		"name":"Nintendo Switch",
+		"image":"nintendo_switch"
+		}
+	]
+}
