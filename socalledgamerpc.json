@@ -34,7 +34,6 @@
 			"platform_choices":[
 				"Nintendo Switch",
 				"PC",
-				"Mac",
 				"Xbox One",
 				"Playstation 4",
 				"Mobile"
@@ -44,7 +43,28 @@
 	"platforms":[
 		{
 			"name":"Nintendo Switch",
-			"image":"nintendo_switch"
+			"image":"nintendo_switch",
+			"id":"nintswitch"
+		},
+		{
+			"name":"PC",
+			"image":"pc",
+			"id":"pc"
+		},
+		{
+			"name":"Xbox One",
+			"image":"xboxone",
+			"id":"xbox1"
+		},
+		{
+			"name":"Playstation 4",
+			"image":"playstation4",
+			"id":"ps4"
+		},
+		{
+			"name":"Mobile",
+			"image":"mobile",
+			"id":"mobile"
 		}
 	]
 }
