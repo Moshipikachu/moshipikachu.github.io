@@ -14,16 +14,15 @@
 				"Private Battle",
 				"Salmon Run",
 			],
-			"platform":[
-				{
-				}
+			"platform_choices":[
+				"Nintendo Switch"
 			]
 		}
 	],
 	"platforms":[
 		{
-		"name":"Nintendo Switch",
-		"image":"nintendo_switch"
+			"name":"Nintendo Switch",
+			"image":"nintendo_switch"
 		}
 	]
 }
