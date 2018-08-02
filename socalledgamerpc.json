@@ -2,6 +2,7 @@
 	"games":[
 		{
 			"name":"Splatoon 2",
+			"id":"splatoon2",
 			"image":"teamsquid",
 			"options":[
 				"Turf War",
