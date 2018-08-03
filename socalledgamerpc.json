@@ -3,7 +3,7 @@
 		{
 			"name":"Splatoon 2",
 			"id":"splatoon2",
-			"image":"teamsquid",
+			"image":"splatoon2",
 			"options":[
 				"Turf War",
 				"Ranked Battle - Splat Zones",
@@ -22,7 +22,7 @@
 		{
 			"name":"Fortnite",
 			"id":"fortnite",
-			"image":"teamsquid",
+			"image":"fortnite",
 			"options":[
 				"Battle Royale - Solos",
 				"Battle Royale - Duos",
